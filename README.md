@@ -1,5 +1,5 @@
 
-# Hi, I'm Rahul 👋
+# Hello 👋
 
 Product person, builder of small useful things.
 
