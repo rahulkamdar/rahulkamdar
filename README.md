@@ -21,5 +21,5 @@ What started as a tax-season hack grew into something I use for financial planni
 
 Docker-based, supports multiple LLMs, does what it says on the tin.
 
-**Coming soon:** My custom OpenClaw setup.
+**Will add more apps and custom configurations**
 
