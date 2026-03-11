@@ -5,7 +5,7 @@ I am a product person and a simple builder of small, useful tools.
 
 ## What I'm building
 
-Since 2024, much like many of us, I've been building a few personal tools again. While a lot of what I built (a long time back) was using a popular integration engine (TIBCO BusinessWorks - including legal event-ticket pollers, eg. for the games at the London Olympics 2012), GenAI has made this process so delightfully low-friction!
+Since 2024, much like many of us, I've been building a few personal tools again. While a lot of what I built (a long time back) was using a popular integration engine (TIBCO BusinessWorks - completing frequent forms and workflows; running data updates on defined intervals; polling event tickets, including the ones at the London Olympics 2012), GenAI has made this process so delightfully low-friction!
 
 Thanks to nudges from some folks, I'm starting to open-source/share some of these. Took me a while to actually hit publish - not sure why, but here we are.
 
